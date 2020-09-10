@@ -1,9 +1,4 @@
-setupRequired(afw)
-setupRequired(log)
-setupRequired(pex_config)
 setupRequired(pipe_base)
-setupRequired(sconsUtils)
-setupRequired(utils)
 
 setupOptional(afwdata)
 
